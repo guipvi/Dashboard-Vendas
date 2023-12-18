@@ -1,2 +1,2 @@
-<!-- Exemplo de código de incorporação -->
-<iframe width="800" height="600" src="[URL_DO_SEU_DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiNWVjMDczZDAtMGVkYS00YTJlLWJjOTUtNzc0NDI3MTVjZTY5IiwidCI6IjY0ZThiYmUyLTdiN2EtNDc5NC1iNzM1LTIwM2ZkOWEzYmIxNSJ9)https://app.powerbi.com/view?r=eyJrIjoiNWVjMDczZDAtMGVkYS00YTJlLWJjOTUtNzc0NDI3MTVjZTY5IiwidCI6IjY0ZThiYmUyLTdiN2EtNDc5NC1iNzM1LTIwM2ZkOWEzYmIxNSJ9" frameborder="0" allowfullscreen="true"></iframe>
+Dashboard de vendas e visitas no site criado a partir de dados fictícios de uma empresa não existente: 
+[Visualizar Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWVjMDczZDAtMGVkYS00YTJlLWJjOTUtNzc0NDI3MTVjZTY5IiwidCI6IjY0ZThiYmUyLTdiN2EtNDc5NC1iNzM1LTIwM2ZkOWEzYmIxNSJ9)
